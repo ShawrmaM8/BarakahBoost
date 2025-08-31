@@ -1,7 +1,7 @@
-\*\*BarakaBoost\*\* 🌙✨
+# BarakaBoost 
 
+🌙✨
 A zero-cost, low-maintenance Streamlit app that quantifies spiritual habits (prayer, Qur’an recitation, sadaqah, screen time, sleep, dhikr) into a \*\*daily Baraka Score\*\*.
-
 
 
 \* Users log habits directly in-app → stored in JSON.
@@ -33,4 +33,5 @@ on Windows
  pip install -r requirements.txt
 
  streamlit run main\_barakah.py
+
 
