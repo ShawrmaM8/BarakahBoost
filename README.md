@@ -22,16 +22,13 @@ Want me to also draft a \*\*GitHub README.md\*\* (with usage, setup, screenshots
 
 
 
- ## Quick Start
+## Quick Start
 
- ```bash
+`python -m venv .venv \&\& source .venv/bin/activate  # or .venv\\Scripts\\activate` (Git Bash)
+ 
+`pip install -r requirements.txt`
 
- python -m venv .venv \&\& source .venv/bin/activate  # or .venv\\Scripts\\activate
+`streamlit run main_barakah.py`
 
-on Windows
-
- pip install -r requirements.txt
-
- streamlit run main\_barakah.py
 
 
